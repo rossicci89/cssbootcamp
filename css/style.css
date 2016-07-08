@@ -1,0 +1,244 @@
+.comp{
+  background-image: url('../images/ironyard.jpeg');
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.grey1{
+  background-color: #39474e;
+}
+.comptext{
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  color: white;
+
+}
+
+.comptext3{
+  font-family: 'PT Serif', serif;
+  color: white;
+  text-align: center;
+  margin-left: -2%;
+}
+
+.short{
+  font-weight: strong;
+  color: #838f95;
+  font-size: 30px;
+  margin: 15px 0;
+  line-height: 36px;
+  font-weight: bold;
+  font-style: italic;
+  }
+
+.comptext2{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: -15%;
+}
+
+
+.started{
+  text-align: center;
+  font-family: 'PT Serif', serif; font-weight: 400;
+  font-size: 16px;
+  color: white;
+  background-color: #6fbbb7;
+  border-radius: 4px;
+  font-style: italic;
+  padding: 5px;
+  margin-top: 36px;
+  height: 48px;
+  width: 117px;
+}
+
+.grey{
+  background-color: grey;
+}
+
+.dis {
+  text-align: center;
+  font-family: 'PT Serif', serif; font-weight: 400;
+  background-color: #eeeeee;
+;
+
+}
+
+.cover{
+  font-family: 'PT Serif', serif;
+  font-size: 34px;
+  line-height: 36px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  color: white;
+
+}
+
+.ff{
+  font-size: 34px;
+  line-height: 36px;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+
+}
+
+.week{
+  color: #838f95;
+  font-size: 30px;
+  margin: 15px 0;
+  line-height: 36px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 26px;
+}
+
+.crash{
+  color: #838f95;
+  line-height: 36px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+  margin: 15px 0;
+  font-size: 26px;
+}
+
+.bus{
+  margin: 15px 0;
+  color: #838f95;
+  line-height: 36px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+  font-size: 26px;
+
+}
+
+.want{
+  font-size: 18px;
+}
+.go{
+  font-size: 18px;
+}
+
+.our{
+  font-size: 18px;
+}
+
+.if{
+  font-size: 18px;
+}
+
+.work{
+  font-size: 18px;
+}
+
+.offer{
+  font-size: 18px;
+}
+
+.about{
+  font-size: 18px;
+}
+
+.employ{
+  background-color: grey;
+  text-align: center;
+  font-family: 'PT Serif', serif; font-weight: 400;
+
+}
+
+.micro{
+  background-color: grey;
+}
+
+.j{
+  background-color: white;
+}
+
+.font1{
+  font-family: 'PT Serif', serif; font-weight: 400;
+
+}
+
+.hf{
+  font-family: 'PT Serif', serif; font-weight: 900; font-weight: bold;
+  color: #838f95;
+
+}
+
+.font2{
+  font-family: 'PT Serif', serif; font-weight: 400;
+
+}
+
+.font3{
+  font-family: 'PT Serif', serif; font-weight: 400;
+  background-color: white;
+
+}
+
+.font4{
+  font-family: 'PT Serif', serif; font-weight: 400;
+  background-color: white;
+
+}
+
+
+.fe{
+  margin-left: 20%;
+}
+
+.ie{
+  margin-left: -13%;
+}
+
+.be{
+  margin-left: -10%;
+}
+
+.me{
+  margin-left: -10%;
+}
+
+.box1{
+  height: 353px;
+  width: 357px;
+  background-color: #ebebeb;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+
+}
+
+.learn{
+  background-color: #6fbbb7;
+  margin: 15px 0;
+  line-height: 36px;
+  color: white;
+  border-radius: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 24px;
+
+
+}
+
+.btn {
+  background-color: #6fbbb7;
+  display: block;
+  margin: 0 auto;
+}
+
+.whitebox1{
+  width: 150px;
+  background-color: white;
+  margin: 0 auto;
+  }
