@@ -242,3 +242,80 @@
   background-color: white;
   margin: 0 auto;
   }
+
+  .ques{
+    color: #838F95;
+  }
+
+  .ques1{
+    color: #838F95;
+  }
+
+  .call{
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+  .email{
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+  .greybox3{
+    height: 185px;
+    width: 258px;
+    background-color: grey;
+    border-radius: 4px;
+    margin: 15px 0;
+  }
+
+  .greybox4{
+    height: 185px;
+    width: 258px;
+    background-color: grey;
+    border-radius: 4px;
+    margin: 15px 0;
+  }
+
+.btn3{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 18px;
+  color: white;
+  background-color: #6fbbb7;
+  margin: 15px 0;
+  line-height: 16px;
+  color: white;
+  border-radius: 10px;
+
+}
+
+.btn4{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 18px;
+  color: white;
+  background-color: #6fbbb7;
+  margin: 15px 0;
+  line-height: 16px;
+  color: white;
+  border-radius: 10px;
+
+}
+
+.whitebox2{
+  width: 150px;
+  background-color: white;
+  margin: 0 auto;
+  }
+
+  .whitebox3{
+    width: 150px;
+    background-color: white;
+    margin: 0 auto;
+    }
+
+@media(max-width:767px) {
+    }
